@@ -1,6 +1,10 @@
 
 # 🧙‍♂️ MagikIA Project
 
+- [Português](README.pt.md)  
+- [English](README.en.md)  
+- [日本語](README.ja.md)  
+
 Welcome to **MagikIA**, a personal project built with great dedication to practice HTML, CSS, and JavaScript concepts. The main idea is to create a simple but functional interface that allows you to **filter magical cards** based on **category** and **maximum price** — all interactively and dynamically.
 
 ---
