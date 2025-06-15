@@ -1,6 +1,6 @@
 
 # 🧙‍♂️ MagikIAプロジェクト
-** 言語
+**言語**
 - [Português](README.pt.md)  
 - [English](README.en.md)  
 - [日本語](README.ja.md)  
