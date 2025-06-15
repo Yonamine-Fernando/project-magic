@@ -2,8 +2,7 @@
 # 🧙‍♂️ MagikIAプロジェクト
 **言語**
 - [Português](README.pt.md)  
-- [English](README.en.md)  
-- [日本語](README.ja.md)  
+- [English](README.md)   
 
 **MagikIA**へようこそ。これは、HTML、CSS、JavaScriptの概念を練習するために一生懸命取り組んだ個人プロジェクトです。主な目的は、**カテゴリ**や**最大価格**に基づいて**魔法カードをフィルタリング**できる、シンプルで機能的なインターフェースを作成することです。すべてインタラクティブかつ動的に動作します。
 
