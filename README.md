@@ -1,8 +1,7 @@
 
 # 🧙‍♂️ Projeto MagikIA
 
-Escolha um idioma:  
-- [Português](README.md)  
+Escolha um idioma:   
 - [English](README.en.md)  
 - [日本語](README.ja.md)  
 
