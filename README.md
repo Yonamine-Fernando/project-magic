@@ -1,6 +1,11 @@
 
 # 🧙‍♂️ Projeto MagikIA
 
+Escolha um idioma:  
+- [Português](README.pt.md)  
+- [English](README.en.md)  
+- [日本語](README.ja.md)  
+
 Bem-vindo ao **MagikIA**, um projeto pessoal feito com muito empenho para praticar os conceitos de HTML, CSS e JavaScript. A ideia principal é criar uma interface simples, mas funcional, que permite **filtrar cartas mágicas** com base em **categoria** e **preço máximo** — tudo de forma interativa e dinâmica.
 
 ---
